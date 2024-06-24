@@ -25,7 +25,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: <XXX_XXX_XXX>
+          default: .edgeplatform-test-kscore-9ca4d14d48413d18ce61b80811ba4308-0000.us-south.containers.appdomain.cloud
         gitlabGroup:
           title: GitLab repo owner
           type: string
